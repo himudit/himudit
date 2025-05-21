@@ -19,7 +19,8 @@
 <a href="https://www.hackerearth.com/@gargmudit662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gargmudit662" height="30" width="40" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=himudit&label=Profile%20views&color=purple&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=himudit&label=Profile%20views&color=blueviolet&style=flat)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
