@@ -44,18 +44,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himudit&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-
 <h3 align="center">🔥 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himudit&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himudit&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
