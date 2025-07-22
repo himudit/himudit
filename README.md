@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mudit Garg</h1>
 <h3 align="center">Passionate web developer skilled in front-end and back-end technologies, with a strong interest in competitive programming. Experienced in building responsive, user-friendly web applications. Eager to apply technical expertise to develop web projects while fostering personal and professional growth.</h3>
+<!-- <h3 align="center"> </h3> -->
+<p align="center">
+  <a href="[https://your-portfolio-link.com](https://mudit-portfolio-ashy.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-76fbd9?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="My Portfolio" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Edusphere](https://github.com/himudit/EduSphere)
 
