@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Edusphere](https://github.com/himudit/EduSphere)
 
-- 🌱 I’m currently learning ****Next.js**, **AWS****
+- 🌱 I’m currently learning ****AngularJS**, **AWS****
 
 - 💬 Ask me about **React.js**, **Node.js** **MongoDB**, **Express.js**, and building full-stack **MERN** applications**
 
