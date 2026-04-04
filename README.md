@@ -3,7 +3,7 @@
 <!-- <h3 align="center"> </h3> -->
 <p align="center">
   <a href="https://muditbuilds.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="[https://img.shields.io/badge/My%20Portfolio-76fbd9?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000](https://muditbuilds.vercel.app/_next/static/media/muditLogo.e285de27.png)" alt="My Portfolio" />
+    <img src="https://muditbuilds.vercel.app/_next/static/media/muditLogo.e285de27.png" alt="My Portfolio" />
   </a>
 </p>
 
